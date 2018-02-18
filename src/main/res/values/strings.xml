@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">High Low Game</string>
+    <string name="email_field">email</string>
+    <string name="password_field">password</string>
+    <string name="signup_field">I dont have an account.</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "741686499206",
+    "firebase_url": "https://highlowgame-f2164.firebaseio.com",
+    "project_id": "highlowgame-f2164",
+    "storage_bucket": "highlowgame-f2164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741686499206:android:499b006348614273",
+        "android_client_info": {
+          "package_name": "com.spritegames.highlowgame.highlowgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741686499206-3bt973a4i7s3nl6dtdi8vtrgshgbin8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spritegames.highlowgame.highlowgame",
+            "certificate_hash": "b25be09e25ffa16097e26c5faad76eed7643f5bf"
+          }
+        },
+        {
+          "client_id": "741686499206-fl3eash46a62okn9booq7unc784rcfg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAULE1hIqIwvua_QI9sTEArv8HGvbXQ7c4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741686499206-fl3eash46a62okn9booq7unc784rcfg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
